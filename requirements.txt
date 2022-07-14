@@ -1,5 +1,5 @@
 requests
 choice
 shuffle
-colorma
+colorama
 pystyle
